@@ -57,3 +57,6 @@ buck-out/
 
 # Secrets
 secrets/secrets.json
+
+# Assets
+src/assets
